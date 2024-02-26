@@ -1,8 +1,14 @@
 ## Hi there 👋
 This team is composed of students:
+>
+---
   > Dumitrescu Marian-Daniel
+---
   > Măgăreață Adelina-Maria
+---
   > Gavrilă Răzvan-Ștefan
+>
+---
 <!--
 
 **Here are some ideas to get you started:**
